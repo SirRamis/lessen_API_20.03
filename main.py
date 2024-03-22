@@ -20,4 +20,4 @@ def create_booking():
 
     print(response.json())
 
-create_booking()rgerge
+create_booking()
