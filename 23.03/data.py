@@ -1,7 +1,7 @@
 import dataclasses
 from dataclasses import dataclass
 
-@dataclasses
+@dataclass
 class User:
     first_name: str = None,
     last_name: str = None,
