@@ -1,5 +1,4 @@
 import random
-from pprint import pprint
 
 from faker import Faker
 from data import User
