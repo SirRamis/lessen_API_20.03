@@ -7,4 +7,4 @@ else:
     print("Oshibki net")
 finally:
     print("I vipolnayu vsegda")
-print("Konex")
+print("Konex")kkfgfj
